@@ -1,7 +1,4 @@
-﻿using System.Collections.ObjectModel;
-using System.ComponentModel;
-
-namespace MauiApp10
+﻿namespace MauiApp1
 {
     public partial class MainPage : ContentPage
     {
@@ -9,5 +6,8 @@ namespace MauiApp10
         {
             InitializeComponent();
         }
+
+     
     }
+
 }

@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Logging;
 
-namespace MauiApp10
+namespace MauiApp1
 {
     public static class MauiProgram
     {
